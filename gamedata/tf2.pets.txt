@@ -224,47 +224,47 @@
 			
 			"CTFPlayer::GetAmmoCount" //(int)
 			{		
-				"windows"	"259"		
-				"linux"		"260"
+				"windows"	"262"		
+				"linux"		"263"
 			}	
 			
 			"CTFWeaponBaseGun::GetWeaponID" //(int)
 			{		
-				"windows"	"373"		
-				"linux"		"379"
+				"windows"	"376"		
+				"linux"		"382"
 			}
 			"CTFWeaponBaseGun::HasAmmo" //()
 			{
-				"windows"	"233"
-				"linux"		"239"
+				"windows"	"236"
+				"linux"		"242"
 			}
 			
 			"CTFWeaponBaseGun::GetProjectileSpeed" //(float)
 			{		
-				"windows"	"474"		
-				"linux"		"481"
+				"windows"	"477"		
+				"linux"		"484"
 			}
 			"CTFWeaponBaseGun::GetProjectileGravity" //(float)
 			{		
-				"windows"	"475"		
-				"linux"		"482"
+				"windows"	"478"		
+				"linux"		"485"
 			}
 			
 			"CTFBaseBoss::GetCurrencyValue"
 			{
-				"windows"	"329" //Windows always +1 off
-				"linux"		"335"
+				"windows"	"332" //Windows always +1 off
+				"linux"		"338"
 			}
 			
 			"CBaseEntity::WorldSpaceCenter"		
 			{		
-				"windows"	"149"		
-				"linux"		"150"
+				"windows"	"152"		
+				"linux"		"153"
 			}
 			"CBaseEntity::GetSmoothedVelocity"
 			{
-				"windows"	"139"
-				"linux"		"140"
+				"windows"	"142"
+				"linux"		"143"
 			}
 			"CBaseEntity::MyNextBotPointer"
 			{
@@ -273,24 +273,24 @@
 			}
 			"CBaseEntity::GetVectors"
 			{
-				"windows"	"136"
-				"linux"		"137"
+				"windows"	"139"
+				"linux"		"140"
 			}
 			
 			"CBaseAnimating::StudioFrameAdvance"
 			{
-				"windows"	"194"
-				"linux"		"195"
+				"windows"	"197"
+				"linux"		"198"
 			}
 			"CBaseAnimating::DispatchAnimEvents"
 			{
-				"windows"	"206"
-				"linux"		"207"
+				"windows"	"209"
+				"linux"		"210"
 			}
 			"CBaseAnimating::HandleAnimEvent" //(animevent_t*)
 			{
-				"windows"	"207"
-				"linux"		"208"
+				"windows"	"210"
+				"linux"		"211"
 			}
 			"INextBotEventResponder::OnContact" //(CBaseEntity*, CGameTrace*)
 			{
@@ -626,13 +626,13 @@
 			
 			"CBaseCombatCharacter::ShouldGib"
 			{
-				"windows"	"290"
-				"linux"		"291"
+				"windows"	"293"
+				"linux"		"294"
 			}
 			"CBaseCombatCharacter::GetTimeSinceLastInjury" //(int team)
 			{
-				"windows"	"283"
-				"linux"		"284"
+				"windows"	"286"
+				"linux"		"287"
 			}
 			"CTFBaseBoss::Event_Killed" //(CTakeDamageInfo const&)
 			{
