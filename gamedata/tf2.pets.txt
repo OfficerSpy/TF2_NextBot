@@ -230,8 +230,8 @@
 			
 			"CTFWeaponBaseGun::GetWeaponID" //(int)
 			{		
-				"windows"	"379"		
-				"linux"		"385"
+				"windows"	"380"		
+				"linux"		"386"
 			}
 			"CTFWeaponBaseGun::HasAmmo" //()
 			{
@@ -241,13 +241,13 @@
 			
 			"CTFWeaponBaseGun::GetProjectileSpeed" //(float)
 			{		
-				"windows"	"480"		
-				"linux"		"487"
+				"windows"	"481"		
+				"linux"		"488"
 			}
 			"CTFWeaponBaseGun::GetProjectileGravity" //(float)
 			{		
-				"windows"	"481"		
-				"linux"		"488"
+				"windows"	"482"		
+				"linux"		"489"
 			}
 			
 			"CTFBaseBoss::GetCurrencyValue"
