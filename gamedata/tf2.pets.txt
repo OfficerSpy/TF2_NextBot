@@ -516,6 +516,16 @@
 				"windows"	"54"
 				"linux"		"55"
 			}
+			"IVision::ForgetAllKnownEntities"
+			{
+				"windows"	"57"
+				"linux"		"58"
+			}
+			"IVision::ForgetEntity"
+			{
+				"windows"	"56"
+				"linux"		"57"
+			}
 			
 			"CKnownEntity::GetEntity"
 			{
